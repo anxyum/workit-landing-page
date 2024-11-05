@@ -1,0 +1,20 @@
+* {
+  box-sizing: border-box;
+}
+
+.logo {
+  width: 100px;
+}
+
+.main-title {
+  font-family: Fraunces 144pt;
+  font-size: 80px;
+  font-weight: 600;
+  line-height: 80px;
+  text-align: center;
+}
+
+.text-underline {
+  text-decoration: underline;
+  text-decoration-color: #44ffa1;
+}
